@@ -1,8 +1,8 @@
 ## Hi, I'm yOHO 👋 / Hi，我是yOHO
 
-Full-stack dev based in Beijing soon. Currently building [Mutsumi Shimeji](https://github.com/yanhanruan/Mutsumi) 🥒 in my spare time.
+Full-stack dev based in Beijing. Currently building [Mutsumi Shimeji](https://github.com/yanhanruan/Mutsumi) 🥒 in my spare time.
 
-准北京全栈开发者，最近在空闲时间开发[若叶睦桌宠应用](https://github.com/yanhanruan/Mutsumi)🥒
+北京全栈开发者，最近在空闲时间开发[若叶睦桌宠应用](https://github.com/yanhanruan/Mutsumi)🥒
 
 Dabble in anime and soul music
 轻度二次元和灵魂乐爱好者
