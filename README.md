@@ -21,7 +21,7 @@ ruan.yanhann@gmail.com
       React · TypeScript · Next.js · Vue.js · Tailwind CSS · shadcn/ui · HTML5 Canvas
       <br><br>
       <strong>Backend / 后端:</strong><br>
-      Node.js · Go · Rust · PostgreSQL · MySQL · SQLite · C++
+      Node.js · Go · Rust · Python · PostgreSQL · MySQL · SQLite · C++ · Java
     </td>
     <td width="40%" align="center" valign="top">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanhanruan&layout=compact&hide=html&theme=vue-dark" />
