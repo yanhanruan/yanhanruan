@@ -18,7 +18,7 @@ ruan.yanhann@gmail.com
   <tr>
     <td width="60%" valign="top">
       <strong>Frontend / 前端:</strong><br>
-      React · TypeScript · Next.js · Vue.js · Tailwind CSS · shadcn/ui · HTML5 Canvas
+      React · TypeScript · Next.js · Vue.js · Tailwind CSS · shadcn/ui · HTML5 Canvas · Three.js · Openlayers · Cesium
       <br><br>
       <strong>Backend / 后端:</strong><br>
       Node.js · Go · Rust · Python · PostgreSQL · MySQL · SQLite · C++ · Java
