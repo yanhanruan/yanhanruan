@@ -16,14 +16,26 @@ ruan.yanhann@gmail.com
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <strong>Frontend / 前端:</strong><br>
-      React · TypeScript · Next.js · Vue.js · Tailwind CSS · shadcn/ui · HTML5 Canvas · Three.js · Openlayers · Cesium
+      React · TypeScript · Next.js · Vue 3 · Vite · Tailwind CSS · shadcn/ui
       <br><br>
-      <strong>Backend / 后端:</strong><br>
-      Node.js · Go · Rust · Python · PostgreSQL · MySQL · SQLite · C++ · Java
+      <strong>Graphics & Interaction / 图形与交互:</strong><br>
+      WebGL2 · HTML5 Canvas · Three.js · Character Animation · Lip Sync · OpenLayers · Cesium
+      <br><br>
+      <strong>Backend & Data / 后端与数据:</strong><br>
+      Python · asyncio · aiohttp · Node.js · Go · Gin · GORM · PostgreSQL · MySQL · SQLite
+      <br><br>
+      <strong>Desktop & Systems / 桌面与系统:</strong><br>
+      Tauri · Rust · C++ · Java
+      <br><br>
+      <strong>AI & Audio / AI 与音频:</strong><br>
+      LLM Integration · RAG · Real-time Voice · ASR / TTS · VAD · WebSocket
+      <br><br>
+      <strong>Tooling & Testing / 工具与测试:</strong><br>
+      Git · Vitest · Playwright
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanhanruan&layout=compact&hide=html&theme=vue-dark" />
     </td>
   </tr>
